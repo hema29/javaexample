@@ -36,3 +36,5 @@ for (int i = 0; i < count.length; i++) {
             
             new String(new char[count[i]]).replace('\0', '*')));
 }
+	}
+}
